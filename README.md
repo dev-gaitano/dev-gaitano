@@ -1,5 +1,5 @@
 # Hi, I’m Eugene Gaitano<br>
-### Full-sctack Developer<br>
+### A Full-sctack Developer<br>
 [linktr.ee](linktr.ee/eugenegaitano)
 
 
