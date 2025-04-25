@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Hi, I’m @dev-gaitano<br><br>🧠 Full-sctack Developer<br>  :linktr.ee/eugenegaitano
+# Hi, I’m @dev-gaitano<br><br>🧠 Full-sctack Developer<br>  :linktr.ee/eugenegaitano
 
 
 ## 🌐 Socials:
