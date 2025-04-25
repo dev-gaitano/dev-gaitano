@@ -1,4 +1,4 @@
-# Hi, I’m @dev-gaitano<br><br>
+# Hi, I’m Eugene Gaitano<br>
 ## 🧠 Full-sctack Developer<br>  :linktr.ee/eugenegaitano
 
 
