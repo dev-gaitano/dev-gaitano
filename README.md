@@ -1,5 +1,6 @@
-# Hi, I’m Eugene Gaitano<br>
-## 🧠 Full-sctack Developer<br>  :linktr.ee/eugenegaitano
+# Hi, I’m Eugene Gaitano
+## 🧠 Full-sctack Developer<br>
+[linktr.ee](linktr.ee/eugenegaitano)
 
 
 ## 🌐 Socials:
