@@ -1,5 +1,5 @@
 # Hi, I’m Eugene Gaitano<br>
-### A Software Developer<br>
+
 [linktr.ee](linktr.ee/eugenegaitano)
 
 
