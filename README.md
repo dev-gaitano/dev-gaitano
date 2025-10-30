@@ -1,5 +1,5 @@
 <div align="center">
-  [linktr.ee](https://linktr.ee/eugenegaitano)
+  https://linktr.ee/eugenegaitano
 </div>
 
 <br/>
