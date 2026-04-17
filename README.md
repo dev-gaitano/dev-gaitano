@@ -1,5 +1,3 @@
-linktr.ee/eugenegaitano
-
 <div align="center">
   https://linktr.ee/eugenegaitano
 </div>
